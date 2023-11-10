@@ -5,6 +5,7 @@ public class Main {
         exercici1();
     }
     public static void exercici1(){
+        //Programador Marc Corominas
         Scanner llegir = new Scanner(System.in);
         System.out.println("1. Gestionar professors\n" +
                 "2. Gestionar mòduls professionals");
